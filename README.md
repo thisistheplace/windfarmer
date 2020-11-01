@@ -13,3 +13,5 @@ Runs every 2 hours.
 Data which is > 10 years old is averaged per week from 1 day averages.
 Data which is > 2 years old is averaged per day from 2 hour averages.
 Recent data is stored per 2 hours.
+
+There's a good chance a lack of public APIs is going to kill this...
